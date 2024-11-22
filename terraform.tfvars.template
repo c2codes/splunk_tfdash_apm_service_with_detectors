@@ -1,0 +1,7 @@
+service_name = "Example Service"
+dashboard_group_name = "Splunk Terraform"
+default_environment = "prd"
+notification_emails = ["Email,email1@exampleemail123.com","Email,email1@exampleemail123.com"]
+auth_token = <AUTH_TOKEN>
+org_id = <ORG_ID>
+realm = <realm>
